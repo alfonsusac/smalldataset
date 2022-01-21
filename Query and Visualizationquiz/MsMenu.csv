@@ -1,0 +1,501 @@
+MenuID,MenuTypeID,MenuName,MenuPrice
+1,4,Pasta - Cheese / Spinach Bauletti,142000
+2,9,Gherkin,434000
+3,8,Banana Turning,282000
+4,6,Table Cloth 54x72 White,392000
+5,9,Cabbage - Red,423000
+6,3,Fennel - Seeds,48000
+7,1,"Chilli Paste, Sambal Oelek",219000
+8,4,"Crab - Blue, Frozen",72000
+9,6,Glaze - Apricot,206000
+10,10,Pan Grease,40000
+11,10,Hipnotiq Liquor,402000
+12,3,Towel Multifold,414000
+13,1,"Onions - Dried, Chopped",85000
+14,6,Peach - Fresh,463000
+15,2,Cheese - Grie Des Champ,61000
+16,4,Bagel - Ched Chs Presliced,57000
+17,5,Puree - Mocha,164000
+18,2,"Veal - Leg, Provimi - 50 Lb Max",312000
+19,4,Ice Cream - Vanilla,91000
+20,7,Ham - Cooked Italian,126000
+21,1,Rambutan,106000
+22,1,"Wine - Red, Marechal Foch",284000
+23,9,Bar Nature Valley,194000
+24,7,Corn - Mini,435000
+25,2,Bread - Crusty Italian Poly,193000
+26,1,Triple Sec - Mcguinness,101000
+27,10,"Mop Head - Cotton, 24 Oz",39000
+28,1,Wine - Muscadet Sur Lie,260000
+29,4,"Shrimp - 21/25, Peel And Deviened",419000
+30,3,Fruit Mix - Light,464000
+31,2,Cheese - Cream Cheese,473000
+32,6,Zucchini - Green,323000
+33,5,Beer - Blue,61000
+34,1,Shortbread - Cookie Crumbs,378000
+35,1,Wine - Periguita Fonseca,221000
+36,1,"Bread - Roll, Italian",219000
+37,2,Potatoes - Peeled,429000
+38,10,Cheese - Shred Cheddar / Mozza,356000
+39,9,Wine - Spumante Bambino White,401000
+40,6,Vaccum Bag 10x13,37000
+41,9,Pork - Inside,249000
+42,7,Creme De Banane - Marie,395000
+43,8,Flower - Carnations,391000
+44,4,"Squash - Pattypan, Yellow",387000
+45,7,Banana - Green,466000
+46,2,Longos - Assorted Sandwich,125000
+47,2,"Quail - Whole, Bone - In",35000
+48,5,Cheese - Colby,480000
+49,4,Wine - Vineland Estate Semi - Dry,465000
+50,10,Wine - Duboeuf Beaujolais,424000
+51,2,Whmis - Spray Bottle Trigger,238000
+52,3,Lettuce - Frisee,93000
+53,8,Cookies - Englishbay Chochip,386000
+54,2,Rice Wine - Aji Mirin,99000
+55,3,"Asparagus - White, Fresh",492000
+56,1,Orange - Tangerine,75000
+57,4,"Beef - Kindney, Whole",119000
+58,9,Sorrel - Fresh,77000
+59,9,Carroway Seed,286000
+60,10,Beer - Sleeman Fine Porter,393000
+61,7,Pail For Lid 1537,56000
+62,1,"Cheese - Mozzarella, Buffalo",302000
+63,8,Bacardi Breezer - Strawberry,465000
+64,8,Cheese - Mix,75000
+65,1,Tuna - Fresh,174000
+66,6,"Flour - Bran, Red",124000
+67,9,Muffin - Zero Transfat,424000
+68,6,Chocolate Eclairs,231000
+69,10,Filter - Coffee,179000
+70,1,Flour - Fast / Rapid,154000
+71,8,Kiwano,250000
+72,7,Vodka - Smirnoff,125000
+73,10,Schnappes Peppermint - Walker,429000
+74,10,Squid - U - 10 Thailand,276000
+75,7,Zucchini - Green,42000
+76,6,"Apple - Delicious, Golden",216000
+77,1,Wine - Pinot Noir Latour,180000
+78,4,"Pepper - White, Ground",133000
+79,7,"Thyme - Lemon, Fresh",25000
+80,8,Jello - Assorted,46000
+81,6,"Placemat - Scallop, White",308000
+82,9,Truffle Paste,323000
+83,5,Scotch - Queen Anne,165000
+84,10,"Chicken - Diced, Cooked",411000
+85,9,Cornflakes,466000
+86,5,Sobe - Green Tea,322000
+87,5,Beer - Blue Light,129000
+88,6,Bread - Bistro White,330000
+89,2,Soup Campbells Mexicali Tortilla,376000
+90,8,Bread - White Epi Baguette,152000
+91,2,Beef - Tenderloin Tails,402000
+92,10,Cheese - Mozzarella,92000
+93,9,Sauce - Mint,472000
+94,3,Snapple - Mango Maddness,287000
+95,9,Oil - Avocado,456000
+96,4,Tea - Earl Grey,241000
+97,8,"Oil - Truffle, White",151000
+98,2,"Pesto - Primerba, Paste",467000
+99,4,Jam - Apricot,141000
+100,9,Flower - Dish Garden,413000
+101,5,Jerusalem Artichoke,113000
+102,2,"Bread - White, Sliced",70000
+103,1,"Beef - Baby, Liver",462000
+104,4,"Beef - Outside, Round",155000
+105,10,Sage - Rubbed,425000
+106,9,"Soup - Knorr, French Onion",104000
+107,10,Cabbage - Green,299000
+108,6,Bagel - Everything,453000
+109,4,Beef - Sushi Flat Iron Steak,185000
+110,2,Milk - 1%,374000
+111,5,Tea - Honey Green Tea,246000
+112,7,Liquid Aminios Acid - Braggs,77000
+113,5,Spinach - Packaged,68000
+114,8,"Pepper - White, Whole",339000
+115,4,Flax Seed,142000
+116,8,Beer - Labatt Blue,187000
+117,10,Muffin Mix - Chocolate Chip,445000
+118,1,Garlic - Elephant,205000
+119,10,"Pasta - Penne, Rigate, Dry",243000
+120,4,Goat - Leg,110000
+121,2,Fork - Plastic,207000
+122,9,Okra,365000
+123,6,Bay Leaf,285000
+124,5,Chocolate - Dark,79000
+125,5,Parsley - Dried,286000
+126,2,Squash - Guords,216000
+127,7,Cheese - Pont Couvert,419000
+128,6,Cardamon Ground,296000
+129,2,Turnip - White,417000
+130,6,Savory,95000
+131,4,"Juice - Grape, White",447000
+132,2,Fondant - Icing,142000
+133,8,"Tart Shells - Savory, 2",275000
+134,1,Soup Bowl Clear 8oz92008,399000
+135,3,Salt - Table,391000
+136,1,Mince Meat - Filling,141000
+137,1,Mint - Fresh,125000
+138,6,Cabbage Roll,252000
+139,1,Roe - Flying Fish,350000
+140,1,"Beans - Black Bean, Canned",143000
+141,5,Lobster - Tail 6 Oz,231000
+142,2,Mortadella,97000
+143,4,Soup - Campbells Chicken,133000
+144,7,French Pastry - Mini Chocolate,89000
+145,8,Lamb - Bones,149000
+146,4,"Pasta - Rotini, Dry",323000
+147,1,Nantucket - Orange Mango Cktl,309000
+148,10,"Pepper - Julienne, Frozen",380000
+149,8,"Pork - Bacon, Sliced",169000
+150,5,Carbonated Water - Blackcherry,126000
+151,3,Pork - Liver,124000
+152,7,Pork - Liver,357000
+153,6,Nantucket - Carrot Orange,477000
+154,2,Mangostein,451000
+155,2,"Pasta - Fett Alfredo, Single Serve",198000
+156,8,Peas Snow,164000
+157,6,Mcgillicuddy Vanilla Schnap,151000
+158,9,Container - Clear 32 Oz,328000
+159,3,Juice Peach Nectar,94000
+160,8,Coffee Beans - Chocolate,123000
+161,9,Tomato - Plum With Basil,387000
+162,1,Cheese - Comte,128000
+163,8,Wine - Chateau Timberlay,257000
+164,7,"Melon - Watermelon, Seedless",74000
+165,1,Potatoes - Mini White 3 Oz,432000
+166,7,Cod - Fillets,423000
+167,10,Soup - Campbells Mushroom,228000
+168,1,"Bread - Roll, Calabrese",373000
+169,9,Napkin Colour,458000
+170,5,Longos - Penne With Pesto,21000
+171,9,Ginger - Pickled,292000
+172,2,Berry Brulee,378000
+173,2,Pea - Snow,334000
+174,9,"Lamb - Whole, Frozen",468000
+175,8,Cheese - Cheddarsliced,158000
+176,10,Compound - Orange,99000
+177,4,"Chicken - Diced, Cooked",492000
+178,1,The Pop Shoppe Pinapple,493000
+179,10,Tobasco Sauce,89000
+180,10,Mustard Prepared,64000
+181,1,Tuna - Bluefin,120000
+182,7,Durian Fruit,325000
+183,8,Cheese - Roquefort Pappillon,296000
+184,7,Wine - Sauvignon Blanc Oyster,460000
+185,2,Ostrich - Prime Cut,276000
+186,1,Beans - Butter Lrg Lima,289000
+187,5,Pork - Back Ribs,155000
+188,8,Lemonade - Pineapple Passion,63000
+189,6,Ice Cream Bar - Hagen Daz,373000
+190,5,Mousse - Mango,82000
+191,10,Wine - Shiraz South Eastern,173000
+192,6,Flower - Carnations,161000
+193,4,Cake Sheet Combo Party Pack,28000
+194,6,"Water - Spring Water, 355 Ml",465000
+195,3,"Beans - Navy, Dry",388000
+196,3,"Jam - Raspberry,jar",282000
+197,7,Puree - Pear,113000
+198,4,Lettuce - Lambs Mash,196000
+199,1,Calypso - Black Cherry Lemonade,221000
+200,3,Cod - Black Whole Fillet,198000
+201,2,Frangelico,180000
+202,1,Chervil - Fresh,369000
+203,6,Artichoke - Fresh,380000
+204,1,Beer - Steamwhistle,65000
+205,2,Wine - Blue Nun Qualitatswein,307000
+206,1,Juice - Cranberry 284ml,259000
+207,4,Coffee Cup 8oz 5338cd,341000
+208,2,Chicken - Whole Roasting,71000
+209,7,Bread - Assorted Rolls,248000
+210,10,Tarragon - Fresh,418000
+211,6,Nacho Chips,490000
+212,7,"Lemonade - Strawberry, 591 Ml",77000
+213,1,"Chicken - Wings, Tip Off",321000
+214,1,"Wine - White, Ej",183000
+215,8,"Pepper - Black, Crushed",190000
+216,3,"Nut - Walnut, Chopped",24000
+217,1,Edible Flower - Mixed,260000
+218,8,Cloves - Whole,406000
+219,1,Tofu - Firm,481000
+220,9,Lamb Rack Frenched Australian,187000
+221,4,Beef - Top Sirloin,75000
+222,3,Juice - Orange,281000
+223,2,Coffee Cup 12oz 5342cd,235000
+224,4,Salt - Celery,20000
+225,5,Cilantro / Coriander - Fresh,75000
+226,1,Appetizer - Crab And Brie,461000
+227,2,Lambcasing,226000
+228,4,Foam Espresso Cup Plain White,485000
+229,9,Vanilla Beans,494000
+230,1,"Napkin - Cocktail,beige 2 - Ply",480000
+231,4,"Fish - Atlantic Salmon, Cold",466000
+232,2,"Oil - Olive, Extra Virgin",137000
+233,10,Grapes - Red,248000
+234,3,"Artichoke - Bottom, Canned",446000
+235,7,Snapple - Iced Tea Peach,282000
+236,8,Wine - Toasted Head,229000
+237,7,Nantuket Peach Orange,340000
+238,8,Juice - Ocean Spray Cranberry,156000
+239,5,Pork - Ham Hocks - Smoked,99000
+240,9,Kale - Red,402000
+241,2,Tomato Paste,281000
+242,8,Beans - Yellow,109000
+243,7,Spice - Pepper Portions,373000
+244,10,Tumeric,81000
+245,5,Pepper - Jalapeno,242000
+246,8,Hagen Daza - Dk Choocolate,285000
+247,1,Cocktail Napkin Blue,252000
+248,4,"Beans - Black Bean, Preserved",459000
+249,6,Chick Peas - Dried,89000
+250,7,Guava,413000
+251,2,"Coke - Classic, 355 Ml",386000
+252,3,"Split Peas - Yellow, Dry",299000
+253,4,Peach - Halves,148000
+254,3,Lettuce - Curly Endive,191000
+255,7,Chick Peas - Dried,85000
+256,3,"Leeks - Baby, White",441000
+257,4,Kellogs Special K Cereal,207000
+258,5,Syrup - Monin - Blue Curacao,45000
+259,5,"Beans - Long, Chinese",326000
+260,1,Nantucket - Pomegranate Pear,323000
+261,4,Bread - Bistro Sour,112000
+262,3,"Crab - Claws, Snow 16 - 24",491000
+263,10,"Coconut - Shredded, Sweet",270000
+264,5,Sugar - Monocystal / Rock,281000
+265,3,Garbage Bag - Clear,57000
+266,9,Chef Hat 25cm,481000
+267,7,"Pasta - Fusili, Dry",33000
+268,1,Ecolab - Mikroklene 4/4 L,352000
+269,1,Sprouts Dikon,308000
+270,9,"Veal - Inside Round / Top, Lean",48000
+271,4,Beef - Salted,62000
+272,9,Cookies Oatmeal Raisin,399000
+273,3,Wine - White Cab Sauv.on,23000
+274,2,"Beans - Navy, Dry",482000
+275,1,Mousse - Banana Chocolate,320000
+276,7,Ocean Spray - Ruby Red,214000
+277,10,Ecolab - Hand Soap Form Antibac,134000
+278,7,Filter - Coffee,213000
+279,5,Puff Pastry - Slab,292000
+280,3,Sprouts - Bean,360000
+281,8,Garbage Bags - Black,296000
+282,8,"Doilies - 10, Paper",458000
+283,9,"Pasta - Orzo, Dry",45000
+284,10,Langers - Cranberry Cocktail,426000
+285,9,Cheese - Cheddarsliced,461000
+286,7,Grapefruit - Pink,204000
+287,9,Schnappes Peppermint - Walker,155000
+288,6,Dill Weed - Fresh,20000
+289,7,Chicken - Tenderloin,211000
+290,1,Aspic - Amber,276000
+291,2,Table Cloth 81x81 White,308000
+292,3,Tuna - Sushi Grade,260000
+293,2,Grapes - Green,33000
+294,3,Wine - Blue Nun Qualitatswein,392000
+295,2,Beef - Short Loin,244000
+296,4,Water - Aquafina Vitamin,367000
+297,8,Muffin - Bran Ind Wrpd,104000
+298,10,Crackers - Trio,233000
+299,2,Vinegar - Cider,88000
+300,2,Cheese - Swiss Sliced,422000
+301,4,Triple Sec - Mcguinness,342000
+302,3,Veal - Loin,332000
+303,7,Herb Du Provence - Primerba,209000
+304,6,Bread - Pita,468000
+305,2,Bread - Rosemary Focaccia,138000
+306,10,Mini - Vol Au Vents,412000
+307,7,Muffin Mix - Banana Nut,133000
+308,4,Bacardi Mojito,112000
+309,5,"Turkey - Whole, Fresh",446000
+310,10,"Wine - Saint - Bris 2002, Sauv",59000
+311,10,"Bread - Dark Rye, Loaf",136000
+312,9,Shrimp - Prawn,306000
+313,10,Carrots - Jumbo,197000
+314,9,Pie Filling - Apple,364000
+315,2,Pastry - Cheese Baked Scones,429000
+316,5,Wine - Clavet Saint Emilion,141000
+317,8,Syrup - Pancake,408000
+318,1,"Tarragon - Primerba, Paste",293000
+319,8,"Lemonade - Natural, 591 Ml",396000
+320,9,Strawberries,242000
+321,4,Cucumber - Pickling Ontario,196000
+322,1,"Pork - Ham, Virginia",66000
+323,9,Monkfish Fresh - Skin Off,488000
+324,1,Brandy - Bar,36000
+325,7,Pork - Ham Hocks - Smoked,189000
+326,3,Table Cloth 91x91 Colour,232000
+327,6,"Lobster - Tail, 3 - 4 Oz",352000
+328,1,Oyster - In Shell,380000
+329,10,Ice Cream - Fudge Bars,393000
+330,3,Chips - Doritos,309000
+331,3,Stainless Steel Cleaner Vision,495000
+332,5,Pepper - Sorrano,352000
+333,4,Rabbit - Whole,391000
+334,7,Devonshire Cream,39000
+335,3,Sauce - Ranch Dressing,214000
+336,4,"Noodles - Cellophane, Thin",168000
+337,9,Wine - German Riesling,280000
+338,2,Soup - French Onion,371000
+339,9,"Crab - Claws, Snow 16 - 24",485000
+340,9,Pecan Raisin - Tarts,83000
+341,3,Steampan Lid,91000
+342,8,Glycerine,230000
+343,6,Mushroom - Morel Frozen,253000
+344,3,"Mushroom - Porcini, Dry",136000
+345,5,Corn Shoots,231000
+346,10,Soup Campbells Beef With Veg,299000
+347,2,Beer - Sleeman Fine Porter,111000
+348,5,Fond - Chocolate,434000
+349,6,Beer - Steamwhistle,422000
+350,7,Sauce - Salsa,354000
+351,5,"Wine - Red, Wolf Blass, Yellow",81000
+352,5,Bar - Sweet And Salty Chocolate,338000
+353,2,Oyster - In Shell,262000
+354,1,Cookies Cereal Nut,363000
+355,5,Soupcontfoam16oz 116con,310000
+356,2,Longos - Grilled Veg Sandwiches,329000
+357,4,"Juice - Pineapple, 48 Oz",188000
+358,3,Lamb Tenderloin Nz Fr,44000
+359,9,"Chicken - White Meat, No Tender",454000
+360,9,"Pepper - Red, Finger Hot",169000
+361,9,Squash - Sunburst,114000
+362,5,Bagel - Everything,65000
+363,2,Spice - Pepper Portions,61000
+364,2,Icecream - Dstk Super Cone,64000
+365,3,Cookies - Englishbay Wht,23000
+366,5,Lemon Grass,159000
+367,4,Cheese - Perron Cheddar,442000
+368,4,Beef - Ground Medium,176000
+369,10,"Beef - Ground, Extra Lean, Fresh",113000
+370,1,Longos - Grilled Chicken With,354000
+371,5,Soup - Tomato Mush. Florentine,462000
+372,3,Tomatoes - Yellow Hot House,282000
+373,8,Wine - Fino Tio Pepe Gonzalez,237000
+374,2,Rabbit - Frozen,483000
+375,3,Cheese - Wine,268000
+376,2,Muffin - Mix - Mango Sour Cherry,282000
+377,2,"Lobster - Baby, Boiled",426000
+378,9,Chip - Potato Dill Pickle,302000
+379,10,"Marjoram - Dried, Rubbed",443000
+380,2,Ice Cream Bar - Oreo Sandwich,307000
+381,8,Sugar - Palm,214000
+382,7,Muffin - Zero Transfat,155000
+383,9,Flour - Fast / Rapid,325000
+384,8,Shichimi Togarashi Peppeers,362000
+385,8,"Syrup - Monin, Irish Cream",96000
+386,8,"Quail - Whole, Boneless",274000
+387,10,Wine - Niagara Peninsula Vqa,355000
+388,7,Tia Maria,54000
+389,1,"Salmon - Smoked, Sliced",429000
+390,4,Wine - Zonnebloem Pinotage,263000
+391,5,Beer - Mill St Organic,158000
+392,4,Chevril,46000
+393,7,Onion - Dried,410000
+394,8,Wine - Sawmill Creek Autumn,449000
+395,7,Greens Mustard,52000
+396,5,Bagelers,354000
+397,3,Plasticforkblack,449000
+398,6,Dried Cherries,93000
+399,6,Rice - 7 Grain Blend,105000
+400,6,Pear - Packum,414000
+401,2,Pepper - Red Chili,315000
+402,6,Steampan Lid,54000
+403,7,Ice Cream Bar - Oreo Sandwich,335000
+404,4,Pastry - Cheese Baked Scones,147000
+405,6,"Lamb - Leg, Diced",290000
+406,10,Beef - Diced,308000
+407,8,Propel Sport Drink,101000
+408,5,Cheese - Grie Des Champ,214000
+409,9,Veal - Nuckle,335000
+410,4,Flounder - Fresh,268000
+411,4,Tea - Green,197000
+412,2,Corn Syrup,72000
+413,3,Beer - Creemore,256000
+414,8,Bread - Italian Sesame Poly,500000
+415,2,Soap - Pine Sol Floor Cleaner,51000
+416,4,Beef Wellington,498000
+417,1,"Tendrils - Baby Pea, Organic",107000
+418,10,Wine - Dubouef Macon - Villages,350000
+419,10,Foil Wrap,402000
+420,10,Strawberries,210000
+421,6,"Chicken - Wings, Tip Off",55000
+422,1,Raspberries - Fresh,436000
+423,8,Nutmeg - Ground,455000
+424,9,Ice Cream Bar - Oreo Sandwich,208000
+425,8,Bacardi Breezer - Tropical,51000
+426,3,Bar - Granola Trail Mix Fruit Nut,447000
+427,3,"Doilies - 8, Paper",108000
+428,3,"Lemonade - Island Tea, 591 Ml",48000
+429,7,Chocolate - White,109000
+430,10,"Star Anise, Whole",209000
+431,3,Sausage - Breakfast,255000
+432,8,Pie Filling - Pumpkin,363000
+433,7,"Sole - Dover, Whole, Fresh",240000
+434,5,Langers - Mango Nectar,78000
+435,3,Vegetable - Base,263000
+436,9,Bread Ww Cluster,359000
+437,2,Cheese - Gouda Smoked,173000
+438,3,Pickerel - Fillets,437000
+439,10,Marzipan 50/50,280000
+440,5,"Wine - White, Concha Y Toro",362000
+441,8,Lemon Balm - Fresh,95000
+442,4,"Pepper - Green, Chili",372000
+443,4,Bacon Strip Precooked,483000
+444,8,Juice - Cranberry 284ml,86000
+445,5,Versatainer Nc - 888,172000
+446,1,Soup Campbells Beef With Veg,426000
+447,9,Chicken Giblets,116000
+448,2,Sausage - Blood Pudding,339000
+449,8,Cleaner - Bleach,66000
+450,9,Cookie Dough - Double,236000
+451,5,Papadam,209000
+452,9,Tray - 16in Rnd Blk,108000
+453,9,Buffalo - Striploin,44000
+454,10,Crab - Imitation Flakes,292000
+455,7,"Wine - Red, Cabernet Merlot",446000
+456,4,Kellogs All Bran Bars,240000
+457,5,"Chicken - White Meat, No Tender",368000
+458,1,"Beef - Cooked, Corned",191000
+459,5,Longos - Chicken Wings,261000
+460,6,"Chocolate - Semi Sweet, Calets",342000
+461,4,Cheese - St. Paulin,71000
+462,3,Wine - Ej Gallo Sonoma,379000
+463,8,Vodka - Moskovskaya,277000
+464,3,Rice - Brown,45000
+465,3,Cranberries - Frozen,196000
+466,10,Thyme - Dried,229000
+467,5,Sausage - Chorizo,359000
+468,7,"Fish - Soup Base, Bouillon",361000
+469,4,Veal - Inside,112000
+470,2,"Veal - Tenderloin, Untrimmed",469000
+471,9,"Nut - Pecan, Halves",446000
+472,9,"Beef - Kindney, Whole",377000
+473,9,Snapple - Iced Tea Peach,94000
+474,9,Table Cloth 54x54 White,184000
+475,7,Tuna - Sushi Grade,46000
+476,3,"Sauce - Black Current, Dry Mix",84000
+477,4,"Pasta - Rotini, Colour, Dry",82000
+478,7,"Cherries - Bing, Canned",166000
+479,9,Wine - Winzer Krems Gruner,468000
+480,3,Water - Tonic,278000
+481,10,Dill Weed - Fresh,491000
+482,7,Celery,404000
+483,9,Veal - Osso Bucco,462000
+484,2,Monkfish - Fresh,442000
+485,3,Wine - Barbera Alba Doc 2001,171000
+486,1,Extract - Rum,95000
+487,1,Breadfruit,38000
+488,9,Lettuce Romaine Chopped,86000
+489,6,Chevere Logs,177000
+490,10,"Beans - Navy, Dry",235000
+491,8,Wine - Fat Bastard Merlot,78000
+492,5,Calaloo,242000
+493,6,Cheese Cloth No 60,102000
+494,2,Thyme - Dried,405000
+495,4,Wakami Seaweed,411000
+496,9,"Cheese - Mozzarella, Shredded",150000
+497,7,Coffee Decaf Colombian,376000
+498,6,Vector Energy Bar,445000
+499,6,Chick Peas - Canned,358000
+500,5,Oyster - In Shell,373000
